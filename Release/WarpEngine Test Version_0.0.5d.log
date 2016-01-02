@@ -1,0 +1,21 @@
+﻿Build started 12/26/2015 3:25:41 PM.
+     1>Project "D:\Resource\Programme\Warp_Engine\WarpEngine Test Version_0.0.5d\WarpEngine Test Version_0.0.5d\WarpEngine Test Version_0.0.5d.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Source\Compiler\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ID:\Source\Library\OpenCL /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt DrawingProcess.cpp
+         DrawingProcess.cpp
+       Link:
+         D:\Source\Compiler\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Resource\Programme\Warp_Engine\WarpEngine Test Version_0.0.5d\Release\WarpEngine Test Version_0.0.5d.exe" /NOLOGO /LIBPATH:D:\Source\Development\CUDA\lib\Win32 OpenCL.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Resource\Programme\Warp_Engine\WarpEngine Test Version_0.0.5d\Release\WarpEngine Test Version_0.0.5d.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Resource\Programme\Warp_Engine\WarpEngine Test Version_0.0.5d\Release\WarpEngine Test Version_0.0.5d.lib" /MACHINE:X86 /SAFESEH Release\Camera.obj
+         Release\Console.obj
+         Release\DrawingProcess.obj
+         Release\Matrix.obj
+         Release\Object.obj
+         Release\TertiaryArithmeticAlgorithms.obj
+         Release\WindowsInterface.obj
+         Generating code
+         Finished generating code
+         WarpEngine Test Version_0.0.5d.vcxproj -> D:\Resource\Programme\Warp_Engine\WarpEngine Test Version_0.0.5d\Release\WarpEngine Test Version_0.0.5d.exe
+     1>Done Building Project "D:\Resource\Programme\Warp_Engine\WarpEngine Test Version_0.0.5d\WarpEngine Test Version_0.0.5d\WarpEngine Test Version_0.0.5d.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.39

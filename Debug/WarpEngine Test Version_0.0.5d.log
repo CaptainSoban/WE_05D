@@ -1,0 +1,19 @@
+﻿生成启动时间为 2015/12/8 15:22:23。
+     1>项目“E:\Root\Desktop\WarpEngine Test Version_0.0.5d\WarpEngine Test Version_0.0.5d\WarpEngine Test Version_0.0.5d.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ID:\ /ID:\Resource\Project /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt DrawingProcess.cpp
+         DrawingProcess.cpp
+       Link:
+         D:\Program\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Root\Desktop\WarpEngine Test Version_0.0.5d\Debug\WarpEngine Test Version_0.0.5d.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Program\NVIDIA\CUDA ToolKit V6.5\lib\x64" /LIBPATH:"D:\Program\NVIDIA\CUDA ToolKit V6.5\lib\Win32" OpenCL.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Root\Desktop\WarpEngine Test Version_0.0.5d\Debug\WarpEngine Test Version_0.0.5d.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Root\Desktop\WarpEngine Test Version_0.0.5d\Debug\WarpEngine Test Version_0.0.5d.lib" /MACHINE:X86 Debug\Camera.obj
+         Debug\Console.obj
+         Debug\DrawingProcess.obj
+         Debug\Matrix.obj
+         Debug\Object.obj
+         Debug\TertiaryArithmeticAlgorithms.obj
+         Debug\WindowsInterface.obj
+         WarpEngine Test Version_0.0.5d.vcxproj -> E:\Root\Desktop\WarpEngine Test Version_0.0.5d\Debug\WarpEngine Test Version_0.0.5d.exe
+     1>已完成生成项目“E:\Root\Desktop\WarpEngine Test Version_0.0.5d\WarpEngine Test Version_0.0.5d\WarpEngine Test Version_0.0.5d.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.70
